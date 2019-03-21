@@ -1,0 +1,26 @@
+.card {
+	margin-bottom: 10px;
+}
+
+.comments-button {
+	margin-right: 5px;
+}
+
+#saved-results{
+	margin-bottom: 100px;
+}
+
+.jumbotron {
+	background-image: url("/public/assets/img/background.jpg");
+}
+
+footer {
+	background-color: #3273dc;
+	color: white;
+	padding: 10px;
+	width: 100%;
+	bottom: 0;
+	position: sticky;
+}
+
+/*Make media query at viewport width 851px for article buttons*/
