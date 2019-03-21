@@ -1,6 +1,6 @@
 # NPR News Scraper
 
-## All the News That's Fit to Scrape is an application that lets users scrape news articles from NPR.com. Users can then view and leave comments on saved articles. This app uses Cheerio to scrape news from NPR and stores them in MongoDB using Mongoose. 
+### All the News That's Fit to Scrape is an application that lets users scrape news articles from NPR.com. Users can then view and leave comments on saved articles. This app uses Cheerio to scrape news from NPR and stores them in MongoDB using Mongoose. 
 
 ### Check out the deployed version on [Heroku!](https://young-badlands-11704.herokuapp.com/)
 
