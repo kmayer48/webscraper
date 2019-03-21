@@ -1,5 +1,31 @@
+.navbar {
+	background-color: #4C85C5;
+	height: 75px;
+}
+
+li {
+	color: white;
+}
+
+.jumbotron {
+	background-color: rgba(238, 238, 238, 0.45);
+	background-image: url("/assets/img/background.jpg");
+	background-size: cover;
+	background-blend-mode: color;
+}
+
 .card {
 	margin-bottom: 10px;
+}
+
+.card-header {
+	background-color: black;
+	color: white;
+}
+
+.card-body {
+	background-color: #F15B1C;
+	color: white;
 }
 
 .comments-button {
@@ -10,17 +36,10 @@
 	margin-bottom: 100px;
 }
 
-.jumbotron {
-	background-image: url("/public/assets/img/background.jpg");
-}
-
 footer {
-	background-color: #3273dc;
-	color: white;
-	padding: 10px;
 	width: 100%;
 	bottom: 0;
-	position: sticky;
+	background-color: #007bff;;
+	color: white;
+	padding: 10px;
 }
-
-/*Make media query at viewport width 851px for article buttons*/
